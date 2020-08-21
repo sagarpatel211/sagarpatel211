@@ -1,4 +1,4 @@
-### 👋 Hello there!
+### 👋 print("Hello there!")
 I am a rising senior at Sir Winston Churchill Secondary who is interested in robotics and computer programming!
 
 ### 🔭 Currently working on:
