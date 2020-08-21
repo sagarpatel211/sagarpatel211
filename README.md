@@ -1,5 +1,5 @@
 ### 👋 Hello there!
-I am a rising senior at Sir Winston Churchill Secondary who is interested in robotics and programming!
+I am a rising senior at Sir Winston Churchill Secondary who is interested in robotics and computer programming!
 
 ### 🔭 Currently working on:
  * Motion algorithm with and X-Drive using 3-PID loops
