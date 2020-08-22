@@ -6,4 +6,4 @@ I am a rising senior at Sir Winston Churchill Secondary who is interested in rob
  * Learning Javascript and Python
 
 ### 📫 Contact Me
-[Email](mailto:patelsag@students.dsbn.org?subject=[GitHub]%20Source%20Han%20Sans) | [Website](https://sagarpatel211.github.io/)
+[Email](mailto:patelsag@students.dsbn.org) | [Website](https://sagarpatel211.github.io/)
