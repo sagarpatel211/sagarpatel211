@@ -1,5 +1,5 @@
 ### 👋 Hello there!
-I am a rising senior at Sir Winston Churchill Secondary who is interested in robotics and computer programming!
+I am a first year computer science student at the University of Waterloo who is interested in robotics and computer programming!
 
 
 ### 🔭 Currently working on:
