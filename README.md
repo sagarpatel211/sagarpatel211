@@ -7,11 +7,6 @@
 </h1>
 
 <br>
-<p align="center">
-  Hi, I'm Sagar!
-</p>
-
-<hr>
 <h2 align="center">- Languages & Frameworks & Tools & Abilities -</h2>
 <br>
   <p align="center">
