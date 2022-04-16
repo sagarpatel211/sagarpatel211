@@ -5,6 +5,8 @@
   </a>
 </h1>
 Add a section where its like saurinpatel20's bio, explains where i study and brief info
+University of Waterloo Honors Computer Science (with Co-op), graduating in 2026.
+Robotics Club all throughout highschool
 <br>
 <h2 align="center">- Languages & Frameworks & Tools & Abilities -</h2>
 <br>
