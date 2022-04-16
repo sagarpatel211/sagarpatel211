@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sagar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-Add a section where its like saurinpatel20's bio, explains where i study and breif info
+Add a section where its like saurinpatel20's bio, explains where i study and brief info
 <br>
 <h2 align="center">- Languages & Frameworks & Tools & Abilities -</h2>
 <br>
