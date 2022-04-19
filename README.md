@@ -8,25 +8,26 @@
 <h2>🧑🏾 About Me 🧑🏾</h2>
 
 ```python
-from life import Creativity
-
-class Life(Creativity):
-    def __init_life__(self):
-        self.current_job_title = "___"
+class Me:
+    def __init__(self):
+        self.location = "Waterloo, Canada"
+        self.education = "Computer Science (2A)"
+        self.institution = "University of Waterloo"
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "MERN Stack & Android 📚"
-        self.currently_working_on = "Flutter 🌱"
-        self.excited_for = "Internt of Things 🌎"
+        self.currently_learning = "Python 🐍"
+        self.currently_working_on = "Personal Website 🌐"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
         self.website = "https://sagarpatel211.github.io/"
- 
-if '__repo__' == '__helpful__':
-    star.it()
-    fork.it()
+   
+    def prompt(self):
+        print("Thanks for visiting! Feel free to contact me!")
+
+sagar = Me()
+sagar.prompt()
 ```
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2>⚙️ Languages & Frameworks & Tools & Abilities ⚙️</h2>
