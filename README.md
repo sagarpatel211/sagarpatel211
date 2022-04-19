@@ -10,8 +10,8 @@
 ```python
 class Me:
     def __init__(self):
-        self.location = "Waterloo, Canada"
-        self.education = "Computer Science (2A)"
+        self.education = "Computer Science"
+        self.term = "2A (3/8)"
         self.institution = "University of Waterloo"
         self.open_for_opportunity = True
 
@@ -42,6 +42,7 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Latex-315e26?style=flat-square&logo=latex&logoColor=white"/>
   </p> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
