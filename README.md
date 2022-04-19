@@ -1,18 +1,17 @@
+<!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sagar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<!--- Add a section where its like saurinpatel20's bio, explains where i study and brief info
-University of Waterloo Honors Computer Science (with Co-op), graduating in 2026.
-Robotics Club all throughout highschool
-add icons for website and resume and put a reminder to link resume one complete
-I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ___ programmer and working on enhancing _____! -->
- <!------------------------------------------------------------------------------------------------------------------------------------------------->
-## 🎓 I am currently working on...
- * Creating a Desktop website for my Github profile using HTML, CSS, and Javascript
- * Learning C and Javascript
- * learning Python
+<!------------------------------------------------------------------------------------------------------------------------------------------------->
+<h2>🎓 I am currently working on...</h2>
+<ul>
+  <li>Coffee</li>
+  <li>Creating a Desktop website for my Github profile using HTML, CSS, and Javascript</li>
+  <li>Learning C and Javascript</li>
+  <li>Learning Python</li>
+</ul>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2>⚙️ Languages & Frameworks & Tools & Abilities ⚙️</h2>
   <p align="center">
