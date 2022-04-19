@@ -1,17 +1,33 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
+<p align="center">
+  <a align="center" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sagar....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
-<h2>🎓 I am currently working on...</h2>
-<ul>
-  <li>Coffee</li>
-  <li>Creating a Desktop website for my Github profile using HTML, CSS, and Javascript</li>
-  <li>Learning C and Javascript</li>
-  <li>Learning Python</li>
-</ul>
+<h2>🧑🏾 About Me 🧑🏾</h2>
+
+```python
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "MERN Stack & Android 📚"
+        self.currently_working_on = "Flutter 🌱"
+        self.excited_for = "Internt of Things 🌎"
+    
+    def contact_me(self):
+        self.email = "gauravpandey495@gmail.com"
+        self.website = "https://sagarpatel211.github.io/"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+```
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2>⚙️ Languages & Frameworks & Tools & Abilities ⚙️</h2>
   <p align="center">
