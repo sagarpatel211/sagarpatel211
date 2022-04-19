@@ -21,8 +21,9 @@ class Me:
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
-        self.website = "https://sagarpatel211.github.io/"
-   
+        self.website = "sagarpatel211.github.io/"
+        self.linkedin = "linkedin.com/in/sagar-patel-1914671b5/"
+        
     def prompt(self):
         print("Thanks for visiting! Feel free to contact me!")
 
@@ -31,13 +32,16 @@ sagar.prompt()
 ```
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2>⚙️ Languages & Frameworks & Tools & Abilities ⚙️</h2>
+<!-- Add more badges in the future: https://dev.to/envoy_/150-badges-for-github-pnk -->
   <p align="center">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   </p> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
