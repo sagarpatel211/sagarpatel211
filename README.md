@@ -21,7 +21,7 @@ class Life(Creativity):
         self.excited_for = "Internt of Things 🌎"
     
     def contact_me(self):
-        self.email = "gauravpandey495@gmail.com"
+        self.email = "sa24pate@uwaterloo.ca"
         self.website = "https://sagarpatel211.github.io/"
  
 if '__repo__' == '__helpful__':
@@ -54,8 +54,4 @@ if '__repo__' == '__helpful__':
     <img src="https://activity-graph.herokuapp.com/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
 </details>
-<!------------------------------------------------------------------------------------------------------------------------------------------------->
-<h2> 📣 Ways to Reach Me 📣 <h2>
-  <a href="mailto:sa24pate@uwaterloo.ca"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sagar-patel-1914671b5"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
