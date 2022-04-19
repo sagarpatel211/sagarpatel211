@@ -22,8 +22,7 @@ class Me:
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
         self.website = "sagarpatel211.github.io/"
-        self.resume = "on my website!"
-        self.linkedin = "linkedin.com/in/sagar-patel-1914671b5/"
+        self.on_website = ["resume", "linkedin"]
         
     def prompt(self):
         print("Thanks for visiting! Feel free to contact me!")
