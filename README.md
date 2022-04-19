@@ -3,11 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sagar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-Add a section where its like saurinpatel20's bio, explains where i study and brief info
+<!--- Add a section where its like saurinpatel20's bio, explains where i study and brief info
 University of Waterloo Honors Computer Science (with Co-op), graduating in 2026.
 Robotics Club all throughout highschool
 
-I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ___ programmer and working on enhancing _____!
+I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ___ programmer and working on enhancing _____! -->
  <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ### 🎓 I am currently working on...
  * Creating a Desktop website for my Github profile using HTML, CSS, and Javascript
