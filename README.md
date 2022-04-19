@@ -9,7 +9,7 @@ Robotics Club all throughout highschool
 add icons for website and resume and put a reminder to link resume one complete
 I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ___ programmer and working on enhancing _____! -->
  <!------------------------------------------------------------------------------------------------------------------------------------------------->
-### 🎓 I am currently working on...
+## 🎓 I am currently working on...
  * Creating a Desktop website for my Github profile using HTML, CSS, and Javascript
  * Learning C and Javascript
  * learning Python
