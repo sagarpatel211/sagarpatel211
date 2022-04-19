@@ -6,7 +6,7 @@
 <!--- Add a section where its like saurinpatel20's bio, explains where i study and brief info
 University of Waterloo Honors Computer Science (with Co-op), graduating in 2026.
 Robotics Club all throughout highschool
-
+add icons for website and resume and put a reminder to link resume one complete
 I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ___ programmer and working on enhancing _____! -->
  <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ### 🎓 I am currently working on...
@@ -35,8 +35,7 @@ I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am
         <img align="right" width=392 src="https://github-readme-stats.vercel.app/api?username=sagarpatel211&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </div>
-    <br><br><br><br><br><br><br>
-    <br>
+    <br><br><br><br><br><br><br><br>
     <img src="https://activity-graph.herokuapp.com/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
 </details>
