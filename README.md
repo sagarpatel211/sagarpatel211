@@ -11,7 +11,7 @@
 class Me:
     def __init__(self):
         self.education = "Computer Science"
-        self.term = "2A (3/8)"
+        self.graduating = 2026
         self.institution = "University of Waterloo"
         self.open_for_opportunity = True
 
