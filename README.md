@@ -14,7 +14,7 @@ I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am
  * Learning C and Javascript
  * learning Python
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
-<h2>⚙️ Languages & Frameworks & Tools & Abilities ⚙️ </h2>
+<h2>⚙️ Languages & Frameworks & Tools & Abilities ⚙️</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -26,19 +26,19 @@ I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
 <summary><h2>⚡ Stats ⚡</h2></summary>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=392 src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpatel211&theme=react&border=0d1117&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=392 src="https://github-readme-stats.vercel.app/api?username=sagarpatel211&show_icons=true&theme=react&border_color=0d1117&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><p></p>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+  <p align=center>
+    <div align=center>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img align="left" width=392 src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpatel211&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="right" width=392 src="https://github-readme-stats.vercel.app/api?username=sagarpatel211&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
+    <br><br><br><br><br><br><br>
+    <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </p>
 </details>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2> 📣 Ways to Reach Me 📣 <h2>
