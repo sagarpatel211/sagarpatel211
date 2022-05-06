@@ -17,7 +17,7 @@ class Me:
 
     def current_projects(self):
         self.currently_learning = "More Python 🐍"
-        self.currently_working_on = "Applying for F22 Positions!"
+        self.currently_working_on = "Applying for Fall 2022 Positions!"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
