@@ -16,8 +16,8 @@ class Me:
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "Python 🐍"
-        self.currently_working_on = "Personal Website 🌐"
+        self.currently_learning = "More Python 🐍"
+        self.currently_working_on = "Applying for F22 Positions!"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
@@ -41,7 +41,7 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-Latex-315e26?style=flat-square&logo=latex&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Racket-b0040b?style=flat-square&logo=racket&logoColor=white"/>
   </p> 
