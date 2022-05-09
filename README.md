@@ -61,5 +61,8 @@ sagar.prompt()
     <br><br><br><br><br><br><br><br>
     <img src="https://activity-graph.herokuapp.com/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sagarpatel211&style=for-the-badge">
+  </a>
 </details>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
