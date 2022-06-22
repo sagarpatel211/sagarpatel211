@@ -46,6 +46,7 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Latex-315e26?style=flat-square&logo=latex&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Racket-b0040b?style=flat-square&logo=racket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   </p> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
