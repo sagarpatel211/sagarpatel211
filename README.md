@@ -13,7 +13,7 @@ class Me:
         self.education = "Computer Science"
         self.graduating = 2026
         self.institution = "University of Waterloo"
-        self.open_for_opportunity = True
+        self.open_for_opportunity = False
 
     def current_projects(self):
         self.currently_learning = "More Python 🐍"
