@@ -16,8 +16,8 @@ class Me:
         self.open_for_opportunity = False
 
     def current_projects(self):
-        self.currently_learning = "More Python 🐍"
-        self.currently_working_on = "Getting ready for Fall 2022!"
+        self.currently_learning = "Learning Docker & K8s ☸"
+        self.currently_working_on = "Working @ Wind River"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
