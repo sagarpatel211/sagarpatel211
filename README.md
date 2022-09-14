@@ -11,13 +11,12 @@
 class Me:
     def __init__(self):
         self.education = "Computer Science"
-        self.graduating = 2026
+        self.year = ["Second Year", "2A"]
         self.institution = "University of Waterloo"
-        self.open_for_opportunity = False
 
-    def current_projects(self):
-        self.currently_learning = "Learning Docker & K8s ☸"
-        self.currently_working_on = "Working @ Wind River"
+    def current_work(self):
+        self.learning = "Relearning HTML & CSS"
+        self.employment = "Working @ Wind River"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
@@ -25,7 +24,7 @@ class Me:
         self.on_website = ["resume", "linkedin"]
         
     def prompt(self):
-        print("Thanks for visiting! Feel free to contact me!")
+        print("Thank you for visiting! Feel free to contact me!")
 
 sagar = Me()
 sagar.prompt()
