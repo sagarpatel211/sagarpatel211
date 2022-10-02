@@ -15,16 +15,16 @@ class Me:
         self.institution = "University of Waterloo"
 
     def current_work(self):
-        self.learning = "Relearning HTML & CSS"
+        self.learning = "Learning ML and DeepLearning"
         self.employment = "Working @ Wind River"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
         self.website = "sagarpatel211.github.io/"
-        self.on_website = ["resume", "linkedin"]
+        self.on_website = None
         
     def prompt(self):
-        print("Thank you for visiting! Feel free to contact me!")
+        print("Thanks for visiting! Don't hesitate to contact me!")
 
 sagar = Me()
 sagar.prompt()
