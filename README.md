@@ -46,6 +46,8 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-Latex-315e26?style=flat-square&logo=latex&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Racket-b0040b?style=flat-square&logo=racket&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
   </p> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
