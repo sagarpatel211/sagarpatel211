@@ -14,9 +14,10 @@ class Me:
         self.year = "2A"
         self.institution = "University of Waterloo"
 
-    def current_work(self):
+    def work(self):
         self.learning = "Learning Javascript"
-        self.employment = "Working @ Wind River"
+        self.past_coops = ["WindRiver"]
+        self.current_status = "Searching for Summer 2023"
     
     def contact_me(self):
         self.email = ["sa24pate@uwaterloo.ca", 
