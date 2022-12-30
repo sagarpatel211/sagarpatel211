@@ -52,6 +52,7 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-Tensorflow-e55b2d?style=flat-square&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white"/>
   </p> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
