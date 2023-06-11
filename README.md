@@ -68,12 +68,13 @@ sagar.prompt()
       </a>
     </div>
     <br><br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
   </p>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sagarpatel211&style=for-the-badge">
   </a>
 </details>
+<br><br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <a href="https://www.linkedin.com/in/sagar-patel-1914671b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:2sagarpatel2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
