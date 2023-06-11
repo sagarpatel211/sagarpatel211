@@ -61,21 +61,19 @@ sagar.prompt()
   <p align=center>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=395 src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpatel211&theme=react&border=61dafb&hide_border=true"/>
+        <img align="left" width=455 src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpatel211&theme=react&border=61dafb&hide_border=true"/>
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=395 src="https://github-readme-stats.vercel.app/api?username=sagarpatel211&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img align="right" width=455 src="https://github-readme-stats.vercel.app/api?username=sagarpatel211&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </div>
     <br><br>
     <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
   </p>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sagarpatel211&style=for-the-badge">
-  </a>
 </details>
 <br><br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <a href="https://www.linkedin.com/in/sagar-patel-1914671b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:2sagarpatel2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto:sa24pate@uwaterloo.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=sagarpatel211&style=for-the-badge"></a>
