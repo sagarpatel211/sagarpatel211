@@ -11,13 +11,12 @@
 class Me:
     def __init__(self):
         self.education = "Computer Science"
-        self.year = "2A"
+        self.year = "2B"
         self.institution = "University of Waterloo"
 
     def work(self):
         self.learning = "Doing schoolwork 📚"
-        self.past_coops = ["WindRiver"]
-        self.current_status = "Open for Summer 2023 Opportunities"
+        self.current_status = "Open for Fall 2023 Opportunities"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
@@ -48,7 +47,8 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-Latex-315e26?style=flat-square&logo=latex&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Racket-b0040b?style=flat-square&logo=racket&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
+    <img src
+="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Tensorflow-e55b2d?style=flat-square&logo=tensorflow&logoColor=white"/>
     <!--<img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/> -->
     <!--<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white"/> -->
