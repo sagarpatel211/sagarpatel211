@@ -11,12 +11,12 @@
 class Me:
     def __init__(self):
         self.education = "Computer Science"
-        self.year = "2B"
+        self.year = "3A"
         self.institution = "University of Waterloo"
 
     def work(self):
-        self.learning = "Doing schoolwork 📚"
-        self.current_status = "Open for Fall 2023 Opportunities"
+        self.status = "Software Developer Intern @ General Dynamics"
+        self.current_status = "Open for Summer 2024 Opportunities"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
