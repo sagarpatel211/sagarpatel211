@@ -16,7 +16,7 @@ class Me:
 
     def work(self):
         self.status = "Software Developer Intern @ General Dynamics"
-        self.current_status = "Open for Summer 2024 Opportunities"
+        self.current_status = "Open for Opportunities"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
