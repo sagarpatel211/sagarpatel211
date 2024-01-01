@@ -15,8 +15,8 @@ class Me:
         self.institution = "University of Waterloo"
 
     def work(self):
-        self.status = "Software Developer Intern @ General Dynamics"
-        self.current_status = "Open for Opportunities"
+        self.status = "3A Student @ uWaterloo"
+        self.current_status = "Open for 2024 Opportunities"
     
     def contact_me(self):
         self.email = "sa24pate@uwaterloo.ca"
