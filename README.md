@@ -56,7 +56,7 @@ sagar.prompt()
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> 
   </p> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
-<details> 
+<!--<details> 
 <summary><h2>⚡ Stats ⚡</h2></summary>
   <p align=center>
     <div align=center>
@@ -65,10 +65,10 @@ sagar.prompt()
       </a>
     </div>
     <br><br>
-    <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagarpatel211&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
   </p>
 </details>
-<br><br>
+<br><br> -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <a href="https://www.linkedin.com/in/sagar-patel-1914671b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:2sagarpatel2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
