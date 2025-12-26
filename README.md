@@ -11,16 +11,16 @@
 class Me:
     def __init__(self):
         self.education = "Computer Science"
-        self.year = "4A"
+        self.year = "4B"
         self.institution = "University of Waterloo"
 
     def work(self):
         self.status = "4th Year Student @ uWaterloo"
-        self.current_status = "Open for 2025 Opportunities"
+        self.current_status = "Close to graduating! 🥳"
     
     def contact_me(self):
-        self.email = "sa24pate@uwaterloo.ca"
-        self.website = "sagarpatel211.github.io/"
+        self.email = "2sagarpatel2@gmail.com"
+        self.website = "sagarpatel211.me/"
         
     def prompt(self):
         print("Thanks for visiting! Don't hesitate to contact me!")
