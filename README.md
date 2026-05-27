@@ -10,13 +10,11 @@
 ```Python
 class Me:
     def __init__(self):
-        self.education = "Computer Science"
-        self.year = "4B"
+        self.education = "Bachelors of Computer Science"
         self.institution = "University of Waterloo"
 
     def work(self):
-        self.status = "4th Year Student @ uWaterloo"
-        self.current_status = "Close to graduating! 🥳"
+        self.status = "Backend Engineer @ Faire"
     
     def contact_me(self):
         self.email = "2sagarpatel2@gmail.com"
